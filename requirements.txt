@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers==4.31.0
+sentencepiece
+numpy
+urllib3
+requests
+pyopenssl
+pyasn1
