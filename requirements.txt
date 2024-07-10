@@ -1,3 +1,4 @@
+accelerate==0.21.0
 torch
 torchvision
 transformers==4.31.0
