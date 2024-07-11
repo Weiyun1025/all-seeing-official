@@ -444,7 +444,7 @@ with gr.Blocks() as demo:
                 <h1 style="">The All-Seeing-Model (ASM) Demo</h>
             </div>
             <div style="display: inline-block; vertical-align: bottom;">
-                <img width='60' src="/file=./assets/logo.png">
+                <img width='60' src="/file=https://github.com/OpenGVLab/all-seeing/assets/8529570/54c8d328-aa67-4d28-99de-90d019e8e7d0">
             </div>
             <div style='display:flex; align-items: center; justify-content: center; gap: 0.25rem; '>
                 <a href='https://github.com/OpenGVLab/all-seeing'><img src='https://img.shields.io/badge/Github-Code-blue'></a>
